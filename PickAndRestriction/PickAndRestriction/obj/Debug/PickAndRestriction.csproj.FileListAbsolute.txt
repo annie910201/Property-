@@ -1,0 +1,10 @@
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\bin\Debug\PickAndRestriction.exe.config
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\bin\Debug\PickAndRestriction.exe
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\bin\Debug\PickAndRestriction.pdb
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.csprojAssemblyReference.cache
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.Form1.resources
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.Properties.Resources.resources
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.csproj.GenerateResource.cache
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.csproj.CoreCompileInputs.cache
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.exe
+C:\Users\Annie\source\repos\PickAndRestriction\PickAndRestriction\obj\Debug\PickAndRestriction.pdb
